@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+
+#bulb{
+    float:right;
+    width: 50%;
+    height: 50%;
+}
